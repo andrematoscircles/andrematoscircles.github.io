@@ -1,0 +1,1 @@
+{"AzureTest.Tests.Test2":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"244a13c75888e305","status":"passed","statusDetails":"Test2","time":{"start":1676549877523,"stop":1676549877542,"duration":19}}]}}
