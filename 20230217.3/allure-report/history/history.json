@@ -1,0 +1,1 @@
+{"SeleniumTests.tests.TestAuthentication.Login":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"a5f423036285164c","status":"passed","statusDetails":"Login","time":{"start":1676640537038,"stop":1676640577610,"duration":40572}}]}}
